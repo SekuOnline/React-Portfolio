@@ -17,6 +17,7 @@ function App(){
     // const contactRef : React.MutableRefObject<HTMLDivElement | null> = useRef<HTMLDivElement | null>(null);
     return(
         <div className={"w-full flex flex-row-reverse bg-gray-100"}>
+
             {/*<div className={"w-1/2"}></div>*/}
             {/*/!*Left Side */}
             <HomeLeft
